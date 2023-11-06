@@ -77,3 +77,4 @@ The purpose of this document is to outline the functional and non-functional req
 
 ## 6. Appendices
 - This section includes additional information, such as wireframes, data models, and any other relevant documentation, to provide a more detailed view of the website's design and structure.
+demo: https://mshop-seven.vercel.app/
